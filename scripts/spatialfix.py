@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-Applies a new spatial correction based on spd style distortion files
+Applies a new spatial correction based on spd style distortion files!!!
 """
 from ImageD11 import columnfile
 import fabio
